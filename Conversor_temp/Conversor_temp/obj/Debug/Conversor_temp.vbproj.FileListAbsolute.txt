@@ -1,0 +1,16 @@
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\bin\Debug\Conversor_temp.exe
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\bin\Debug\Conversor_temp.pdb
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\bin\Debug\Conversor_temp.xml
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\obj\Debug\Conversor_temp.Form1.resources
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\obj\Debug\Conversor_temp.Resources.resources
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\obj\Debug\Conversor_temp.vbproj.GenerateResource.Cache
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\obj\Debug\Conversor_temp.exe
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\obj\Debug\Conversor_temp.xml
+C:\Users\Renan\AppData\Local\Temporary Projects\Conversor_temp\obj\Debug\Conversor_temp.pdb
+I:\INFORMÁTICA_2º-2011\PC-I\Conversor_temp\Conversor_temp\obj\Debug\Conversor_temp.exe
+I:\INFORMÁTICA_2º-2011\PC-I\Conversor_temp\Conversor_temp\obj\Debug\Conversor_temp.xml
+I:\INFORMÁTICA_2º-2011\PC-I\Conversor_temp\Conversor_temp\obj\Debug\Conversor_temp.pdb
+G:\INFORMÁTICA_2º-2011\PC-I\Conversor_temp\Conversor_temp\obj\Debug\Conversor_temp.exe
+G:\INFORMÁTICA_2º-2011\PC-I\Conversor_temp\Conversor_temp\obj\Debug\Conversor_temp.xml
+G:\INFORMÁTICA_2º-2011\PC-I\Conversor_temp\Conversor_temp\obj\Debug\Conversor_temp.pdb

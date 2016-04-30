@@ -1,0 +1,33 @@
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\bin\Debug\cm_polegada.exe
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\bin\Debug\cm_polegada.pdb
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\bin\Debug\cm_polegada.xml
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\obj\Debug\cm_polegada.Form1.resources
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\obj\Debug\cm_polegada.Resources.resources
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\obj\Debug\cm_polegada.vbproj.GenerateResource.Cache
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\obj\Debug\cm_polegada.exe
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\obj\Debug\cm_polegada.xml
+C:\Users\informática\AppData\Local\Temporary Projects\cm_polegada\obj\Debug\cm_polegada.pdb
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.exe
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.xml
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.pdb
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.exe
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.xml
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.pdb
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\bin\Debug\cm_polegada.exe
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\bin\Debug\cm_polegada.pdb
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\bin\Debug\cm_polegada.xml
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\ResolveAssemblyReference.cache
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.Form1.resources
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.Resources.resources
+G:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.vbproj.GenerateResource.Cache
+I:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.exe
+I:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.xml
+I:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.pdb
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\bin\Debug\cm_polegada.exe
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\bin\Debug\cm_polegada.pdb
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\bin\Debug\cm_polegada.xml
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\ResolveAssemblyReference.cache
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.Form1.resources
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.Resources.resources
+E:\INFORMÁTICA_2º-2011\PC-I\cm_polegada\cm_polegada\obj\Debug\cm_polegada.vbproj.GenerateResource.Cache
